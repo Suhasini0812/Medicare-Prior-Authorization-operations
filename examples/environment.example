@@ -1,0 +1,5 @@
+# Variable names only; never commit or distribute a real API key.
+OPENAI_API_KEY=
+OPENAI_MODEL=gpt-4.1-mini
+
+# This app reads process environment variables directly; it does not load this file.
